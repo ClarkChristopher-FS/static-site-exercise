@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[36546,["/_next/static/chunks/83b76a6e307a3d8c.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"biZnMQFUyMxlnkKGyV0U3","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"padding":"40px","textAlign":"center"},"children":[["$","header",null,{"children":[["$","h1",null,{"children":"Christopher Clark"}],["$","p",null,{"children":"Static Site Exercise - Assignment 1.6"}]]}],["$","main",null,{"style":{"marginTop":"40px"},"children":[["$","h2",null,{"children":"Welcome to My Static Site"}],["$","p",null,{"children":"This is a simple static website built with Next.js."}],["$","p",null,{"children":"I created this as part of my web development course."}]]}],["$","footer",null,{"style":{"marginTop":"60px","paddingTop":"20px","borderTop":"1px solid #ccc"},"children":["$","p",null,{"children":"Built with Next.js and deployed to GitHub Pages"}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

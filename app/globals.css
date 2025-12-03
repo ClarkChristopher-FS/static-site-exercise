@@ -1,6 +1,6 @@
-/* Global styles for the entire site */
+/* These are the global styles that apply to the whole site */
 
-/* Body styles - sets up the base look for everything */
+/* Basic body styling - sets the font and colors for everything */
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -9,21 +9,21 @@ body {
   background-color: #f5f5f5;
 }
 
-/* Heading 1 styles */
+/* Styling for the main heading */
 h1 {
   color: #2c3e50;
   font-size: 2.5em;
   margin-bottom: 10px;
 }
 
-/* Heading 2 styles */
+/* Styling for secondary headings */
 h2 {
   color: #34495e;
   font-size: 2em;
   margin-top: 20px;
 }
 
-/* Paragraph styles */
+/* Paragraph text styling */
 p {
   font-size: 1.1em;
   margin: 10px 0;

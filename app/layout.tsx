@@ -1,13 +1,12 @@
-// This is the root layout component
-// It wraps all pages in the app and sets up the basic HTML structure
+// This layout wraps all my pages and sets up the basic HTML structure
 
-// Metadata for the page - shows up in browser tab and search results
+// The metadata shows up in the browser tab title and search results
 export const metadata = {
   title: "Static Site Exercise",
   description: "A simple static site built with Next.js",
 };
 
-// This function wraps all pages with the HTML structure
+// This function wraps all pages with the HTML and body tags
 export default function RootLayout({
   children,
 }: {

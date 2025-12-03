@@ -1,10 +1,11 @@
-// Next.js configuration
-// This sets up the app to export as static HTML files for GitHub Pages
+// Next.js config file - this tells Next.js how to build the site
 
+// Setting output to export means it will create static HTML files instead of a server
 const nextConfig = {
-  output: "export", // This tells Next.js to generate static files
+  output: "export",
+  // Images need to be unoptimized for static export to work
   images: {
-    unoptimized: true, // Required for static export
+    unoptimized: true,
   },
 };
 
